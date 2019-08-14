@@ -1,10 +1,5 @@
 # Python 自学训练营 010 期 沈璜 日志
 
-C\:\\Users\\*UserName*\\\.gitconfig 
-*UserName* `.gitconfig`<br />
-<code>C:\Users\<em>UserName</em>\.gitconfig</code> 
-<code><em>UserName</em></code> 
-
 **学员信息**
 
 - 姓名：沈璜
