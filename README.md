@@ -166,6 +166,7 @@ Issue 的位置与“参考资料2”中的截图不一致，应是 GitHub 改�
 6. Windows 版 GitHub Desktop 设置代理的方法如下：<br />
    i. 用文本编辑器打开 C\:\\Users\\*UserName*\\\.gitconfig 
    文件，注意 *UserName* 要换成自己的账号，直接搜索“`.gitconfig`”也可以，这个文件只有扩展名，开头就是一个“.”，别弄错了；<br />
+   用文本编辑器打开 <code>C:\Users\<em>UserName</em>\.gitconfig</code> 文件，注意 <code><em>UserName</em></code> 要换成自己的账号，或者直接搜索“`.gitconfig`”也可以，这个文件只有扩展名，开头就是一个“.”，
    ii. 在文件末尾添加代理信息，SOCKS5 代理类似这样：
    ```
     [http]
