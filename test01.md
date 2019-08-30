@@ -15,6 +15,6 @@ li:before {counter-increment:a;content:counters(a,".")". ";}
 2. item
 3. item
 
-# span 标签
+# 不会被去掉的标签
 
-some text <span class="remark">need more style</span>, some deed not.
+some text <span class="remark">use span do more style</span>, some <i>use i</i>, some <b>use b</b>, some <em>use em</em>, some <strong>use stromg</strong>, some deed not.
