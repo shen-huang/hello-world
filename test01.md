@@ -19,7 +19,7 @@ li:before {counter-increment:a;content:counters(a,".")". ";}
 
 Some text <span class="remark">use span do more style</span>, some <i>use i</i>, some <b>use b</b>, some <em>use em</em>, some <strong>use strong</strong>, some deed not.  
 GitHub just use `<em>` for `*`, `<strong>` for `**`.  
-So we can use `<span><i>...</i></span>` with Stylus to format some special content.
+So we can use `<span><i>...</i></span>` (like <span><i>this</i></span>) with Stylus to format some special content.
 
 # 斜体、粗体、删除线
 
