@@ -17,7 +17,8 @@ li:before {counter-increment:a;content:counters(a,".")". ";}
 
 # 不会被去掉的标签
 
-some text <span class="remark">use span do more style</span>, some <i>use i</i>, some <b>use b</b>, some <em>use em</em>, some <strong>use stromg</strong>, some deed not.
+Some text <span class="remark">use span do more style</span>, some <i>use i</i>, some <b>use b</b>, some <em>use em</em>, some <strong>use stromg</strong>, some deed not.  
+GitHub just use `<em>` for `*`, `<strong>` for `**`.
 
 # 斜体、粗体、删除线
 
