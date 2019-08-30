@@ -20,6 +20,13 @@ li:before {counter-increment:a;content:counters(a,".")". ";}
 Some text <span class="remark">use span do more style</span>, some <i>use i</i>, some <b>use b</b>, some <em>use em</em>, some <strong>use strong</strong>, some deed not.  
 GitHub just use `<em>` for `*`, `<strong>` for `**`.  
 So we can use `<span><i>...</i></span>` (like <span><i>this</i></span>) with Stylus to format some special content.
+- 尝试为列表写一些注解
+    - 第一项内容  
+      <span><i>这里是对第一项内容的一些说明，应该也可以使用*斜体*和**粗体**的`Markdown`标记来进行格式化。  
+      双空格折行应该也能支持。
+      </i></span>
+    - 第二项内容  
+    - 第三项内容
 
 # 斜体、粗体、删除线
 
