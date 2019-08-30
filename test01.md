@@ -14,3 +14,7 @@ li:before {counter-increment:a;content:counters(a,".")". ";}
     3. item
 2. item
 3. item
+
+# span 标签
+
+some text <span class="remark">need more style</span>, some deed not.
