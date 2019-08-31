@@ -24,6 +24,17 @@
 2. item
 3. item
 
+# 插入SVG
+
+<!--
+![Windows_Logo_SVG](https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true)
+-->
+![Win][Windows_Logo_20px]![Win][Windows_Logo_16px]![Win][Windows_Logo_12px]
+
+[Windows_Logo_20px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/20px-Windows_logo_2012-Black.svg.png
+[Windows_Logo_16px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/16px-Windows_logo_2012-Black.svg.png
+[Windows_Logo_12px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/12px-Windows_logo_2012-Black.svg.png
+
 # 不会被去掉的标签
 
 Some text <span class="remark">use span do more style</span>, some <i>use i</i>, some <b>use b</b>, some <em>use em</em>, some <strong>use strong</strong>, some deed not.  
