@@ -37,6 +37,8 @@
 
 按 <code><img src="https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_12px.svg?sanitize=true" /> Win</code> - 输入 CMD - 按 `↵ 回车`
 
+按 <code>![Win][Windows_Logo_12px] Win</code> - 输入 CMD - 按 `↵ 回车`
+
 # 不会被去掉的标签
 
 Some text <span class="remark">use span do more style</span>, some <i>use i</i>, some <b>use b</b>, some <em>use em</em>, some <strong>use strong</strong>, some deed not.  
