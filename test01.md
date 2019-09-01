@@ -33,7 +33,7 @@ PNG 缩放：
 ![Win][Windows_Logo_20px] ![Win][Windows_Logo_16px] ![Win][Windows_Logo_12px]
 
 SVG 缩放：  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="20px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="16px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="12px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="20px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="16px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="12px" /> <img src="https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_12px.svg?sanitize=true" />
 
 [Windows_Logo_20px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/20px-Windows_logo_2012-Black.svg.png
 [Windows_Logo_16px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/16px-Windows_logo_2012-Black.svg.png
@@ -45,125 +45,127 @@ SVG 缩放：
 
 # 注释
 
-```
-我是正文。 [comment]: <> (我是注释，不会在浏览器中显示。)
-```
-
-我是正文。 [comment]: <> (我是注释，不会在浏览器中显示。)
+用 `[comment]` 方式注释，`[comment]` 必须在一行的开头。
 
 ```
-我是正文。 [^_^]: <> (我是注释，不会在浏览器中显示。)
+[comment]: <> (我是注释，不会在浏览器中显示。)
 ```
 
-我是正文。 [^_^]: <> (我是注释，不会在浏览器中显示。)
+[comment]: <> (我是注释，不会在浏览器中显示。)
 
 ```
-我是正文。 [^_^]: (我是注释，不会在浏览器中显示。)
+[^_^]: <> (我是注释，不会在浏览器中显示。)
 ```
 
-我是正文。 [^_^]: (我是注释，不会在浏览器中显示。)
+[^_^]: <> (我是注释，不会在浏览器中显示。)
 
 ```
-我是正文。 [^_^]: <> 我是注释，不会在浏览器中显示。  
+[^_^]: (我是注释，不会在浏览器中显示。)
 ```
 
-我是正文。 [^_^]: <> 我是注释，不会在浏览器中显示。  
+[^_^]: (我是注释，不会在浏览器中显示。)
 
 ```
-我是正文。 [^_^]: 我是注释，不会在浏览器中显示。  
+[^_^]: <> 我是注释，不会在浏览器中显示。  
 ```
 
-我是正文。 [^_^]: 我是注释，不会在浏览器中显示。  
+[^_^]: <> 我是注释，不会在浏览器中显示。  
 
 ```
-我是正文。 [^_^]: 我是注  
+[^_^]: 我是注释，不会在浏览器中显示。  
+```
+
+[^_^]: 我是注释，不会在浏览器中显示。  
+
+```
+[^_^]: 我是注  
 释，不会  
 在浏览器  
 中显示。  
 ```
 
-我是正文。 [^_^]: 我是注  
+[^_^]: 我是注  
 释，不会  
 在浏览器  
 中显示。  
 
 ```
-我是正文。 [^_^]: (我是注  
+[^_^]: (我是注  
 释，不会  
 在浏览器  
 中显示。)  
 ```
 
-我是正文。 [^_^]: (我是注  
+[^_^]: (我是注  
 释，不会  
 在浏览器  
 中显示。)  
 
 ```
-我是正文。 [^_^]: <> (我是注  
+[^_^]: <> (我是注  
 释，不会  
 在浏览器  
 中显示。)  
 ```
 
-我是正文。 [^_^]: <> (我是注  
+[^_^]: <> (我是注  
 释，不会  
 在浏览器  
 中显示。)  
 
 ```
-我是正文。 [^_^]: # (我是注  
+[^_^]: # (我是注  
 释，不会  
 在浏览器  
 中显示。)  
 ```
 
-我是正文。 [^_^]: # (我是注  
+[^_^]: # (我是注  
 释，不会  
 在浏览器  
 中显示。)  
 
 ```
-我是正文。 [comment]: <> (我是注释，  
+[comment]: <> (我是注释，  
 不会在  
 浏览器  
 中显示。)
 ```
 
-我是正文。 [comment]: <> (我是注释，  
+[comment]: <> (我是注释，  
 不会在  
 浏览器  
 中显示。)
 
 ```
-我是正文。 [comment]: <> (我是注释，  
-
-不会在  
-
-浏览器  
-
-中显示。)
-```
-
-我是正文。 [comment]: <> (我是注释，  
+[comment]: <> (我是注释，  
 
 不会在  
 
 浏览器  
 
 中显示。)
-
-```
-我是正文。 [//]: <> (我是注释，不会在浏览器中显示。)
 ```
 
-我是正文。 [//]: <> (我是注释，不会在浏览器中显示。)
+[comment]: <> (我是注释，  
+
+不会在  
+
+浏览器  
+
+中显示。)
 
 ```
-我是正文。 [//]: # (我是注释，不会在浏览器中显示。)
+[//]: <> (我是注释，不会在浏览器中显示。)
 ```
 
-我是正文。 [//]: # (我是注释，不会在浏览器中显示。)
+[//]: <> (我是注释，不会在浏览器中显示。)
+
+```
+[//]: # (我是注释，不会在浏览器中显示。)
+```
+
+[//]: # (我是注释，不会在浏览器中显示。)
 
 ---
 
