@@ -29,7 +29,11 @@
 <!--
 ![Windows_Logo_SVG](https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true)
 -->
-![Win][Windows_Logo_20px]![Win][Windows_Logo_16px]![Win][Windows_Logo_12px]
+PNG 缩放：  
+![Win][Windows_Logo_20px] ![Win][Windows_Logo_16px] ![Win][Windows_Logo_12px]
+
+SVG 缩放：  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="20px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="16px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="12px" />
 
 [Windows_Logo_20px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/20px-Windows_logo_2012-Black.svg.png
 [Windows_Logo_16px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/16px-Windows_logo_2012-Black.svg.png
