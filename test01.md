@@ -24,7 +24,7 @@
 2. item
 3. item
 
-# 插入SVG
+# 插入图片
 
 <!--
 ![Windows_Logo_SVG](https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true)
@@ -34,6 +34,8 @@
 [Windows_Logo_20px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/20px-Windows_logo_2012-Black.svg.png
 [Windows_Logo_16px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/16px-Windows_logo_2012-Black.svg.png
 [Windows_Logo_12px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/12px-Windows_logo_2012-Black.svg.png
+
+按 <code><img src="https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_12px.svg?sanitize=true" /> Win</code> - 输入 CMD - 按 `↵ 回车`
 
 # 不会被去掉的标签
 
