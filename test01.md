@@ -43,6 +43,12 @@ SVG 缩放：
 
 按 <code>![Win][Windows_Logo_12px] Win</code> - 输入 CMD - 按 `↵ 回车`
 
+按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="12px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd>
+
+按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="10px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd>
+
+按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="8px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd>
+
 # 注释
 
 用 `[comment]` 方式注释，`[comment]` 必须在一行的开头。
