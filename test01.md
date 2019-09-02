@@ -60,13 +60,13 @@ SVG 缩放：
 
 按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="8px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【缩放 8px 尺寸 Logo】
 
-按 <kbd>![Win][Windows_Logo_8px] Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【重制 8px 尺寸 Logo】
+按 <kbd>![Win][Windows_Logo_8px] Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【<span><b>重制 8px 尺寸 Logo</b></span>】
 
 按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="7px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【缩放 7px 尺寸 Logo】
 
 按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="6px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【缩放 6px 尺寸 Logo】
 
-按 <kbd>![Win][Windows_Logo_6px] Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【重制 6px 尺寸 Logo】
+按 <kbd>![Win][Windows_Logo_6px] Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【<span><b>重制 6px 尺寸 Logo</b></span>】
 
 # 注释
 
