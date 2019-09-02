@@ -30,35 +30,41 @@
 ![Windows_Logo_SVG](https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true)
 -->
 PNG 缩放：  
-![Win][Windows_Logo_20px] ![Win][Windows_Logo_16px] ![Win][Windows_Logo_12px]
+![Win][Windows_Logo_20px_png] ![Win][Windows_Logo_16px_png] ![Win][Windows_Logo_12px_png]
 
 SVG 缩放：  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="20px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="16px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="12px" /> <img src="https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_12px.svg?sanitize=true" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="20px" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="16px" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="12px" /> 
+<img src="https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_12px.svg?sanitize=true" />
 
-[Windows_Logo_20px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/20px-Windows_logo_2012-Black.svg.png
-[Windows_Logo_16px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/16px-Windows_logo_2012-Black.svg.png
-[Windows_Logo_12px]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/12px-Windows_logo_2012-Black.svg.png
+[Windows_Logo_20px_png]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/20px-Windows_logo_2012-Black.svg.png
+[Windows_Logo_16px_png]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/16px-Windows_logo_2012-Black.svg.png
+[Windows_Logo_12px_png]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/12px-Windows_logo_2012-Black.svg.png
 
+[Windows_Logo_12px]: https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_12px.svg?sanitize=true
 [Windows_Logo_8px]: https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_8px.svg?sanitize=true
 [Windows_Logo_6px]: https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_6px.svg?sanitize=true
 
-按 <code><img src="https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_12px.svg?sanitize=true" /> Win</code> - 输入 CMD - 按 `↵ 回车`
+按 <code><img src="https://raw.githubusercontent.com/shen-huang/img/master/Logo/Windows_logo_2012-Black_12px.svg?sanitize=true" /> Win</code> - 输入 CMD - 按 `↵ 回车` 【重制 12px 尺寸 Logo】
 
-按 <code>![Win][Windows_Logo_12px] Win</code> - 输入 CMD - 按 `↵ 回车`
+按 <code>![Win][Windows_Logo_12px] Win</code> - 输入 CMD - 按 `↵ 回车` 【重制 12px 尺寸 Logo】
 
-按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="12px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd>
+按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="12px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【缩放 12px 尺寸 Logo】
 
-按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="10px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd>
+按 <kbd>![Win][Windows_Logo_12px] Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【重制 12px 尺寸 Logo】
 
-按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="9px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd>
+按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="10px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【缩放 10px 尺寸 Logo】
 
-按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="8px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd>
+按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="9px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【缩放 9px 尺寸 Logo】
+
+按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="8px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【缩放 8px 尺寸 Logo】
 
 按 <kbd>![Win][Windows_Logo_8px] Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【重制 8px 尺寸 Logo】
 
-按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="7px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd>
+按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="7px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【缩放 7px 尺寸 Logo】
 
-按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="6px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd>
+按 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_logo_2012-Black.svg?sanitize=true" width="6px" /> Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【缩放 6px 尺寸 Logo】
 
 按 <kbd>![Win][Windows_Logo_6px] Win</kbd> - 输入 CMD - 按 <kbd>↵ 回车</kbd> 【重制 6px 尺寸 Logo】
 
